@@ -1,1 +1,1 @@
-vim-cargo-term
+vim-term-cargo
